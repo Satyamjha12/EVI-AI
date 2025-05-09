@@ -2,7 +2,7 @@
   "name": "evi-next-js-starter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Satyamjha12/empathic-voice-interface-starter",
+  "homepage": "https://github.com/Satyamjha12/EVI-AI",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
